@@ -8,7 +8,7 @@ const poppins = Poppins({ subsets: ['latin'], weight: ['400', '700'] });
 
 export const metadata: Metadata = {
   title: 'Sekte Ulti Nolan',
-  description: 'Mekleren mu warna apa boss??',
+  description: 'Tes Hosting?',
 };
 
 export default function RootLayout({
